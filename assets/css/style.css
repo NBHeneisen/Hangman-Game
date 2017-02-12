@@ -1,0 +1,47 @@
+html { 
+  
+}
+
+body {
+	background:url(../images/background2.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+.titleSign{
+	text-align: center;
+	background:url(../images/sign.png)no-repeat center center;
+	background-color: none;
+	height:250px;
+	margin-top:0px;
+
+
+}
+
+#winLoss {
+	background-color: red;
+	opacity: .5;
+}
+
+#hangmanimation {
+	background: url(../images/background-image.jpg) no-repeat center; 
+	height:500px;
+}
+
+#lettersUsed {
+	background-color: green;
+}
+
+#currentWord {
+	background-color: yellow;
+}
+
+h1 {
+	font-family: western;
+	padding-top:120px;
+	margin:0;
+}
+
+@font-face {
+	font-family: western;
+	src: url(../cowboymovie.ttf);
+}
