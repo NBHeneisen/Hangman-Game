@@ -9,12 +9,14 @@ body {
 
 .titleSign{
 	text-align: center;
-	background:url(../images/sign.png)no-repeat center center;
 	background-color: none;
 	height:250px;
 	margin-top:0px;
+}
 
+h1 {
 
+	font-size: 4em;
 }
 
 #winLoss {
