@@ -54,3 +54,20 @@ h1 {
 	font-family: arial;
 	font-size:2em;
 }
+
+.btn-default {
+	background-color:none;
+	color: #c65100;
+}
+
+#text {
+	text-align:center;
+}
+
+.titleSign {
+	height: 400px;
+}
+
+.header {
+	padding-top:100px;
+}
