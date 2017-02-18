@@ -3,6 +3,8 @@ html {
 }
 
 body {
+	
+	font-family: western;
 	background:url(../images/background2.jpg) no-repeat center center fixed;
 	background-size: cover;
 }
@@ -46,4 +48,9 @@ h1 {
 @font-face {
 	font-family: western;
 	src: url(../cowboymovie.ttf);
+}
+
+#word {
+	font-family: arial;
+	font-size:2em;
 }
